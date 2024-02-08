@@ -6,13 +6,13 @@
 </div>
 
 
-<h3  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey there, I'm <a href="https://github.com/Sandeep-Chahar">Sandeep Chahar</a></h3>
+<h3  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey there, I'm <a href="https://github.com/VishaLMorya">Sandeep Chahar</a></h3>
 
 <p align="center">
-<a href="https://github.com/Sandeep-Chahar?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sandeep-Chahar?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-<a href="https://github.com/Sandeep-Chahar"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sandeep-Chahar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-   <a href="https://github.com/Sandeep-Chahar"> <img src="https://komarev.com/ghpvc/?username=Sandeep-Chahar&style=for-the-badge&color=brightgreen"></a>
+<a href="https://github.com/VishaLMorya?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VishaLMorya?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+<a href="https://github.com/VishaLMorya"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/VishaLMorya?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/VishaLMorya"> <img src="https://komarev.com/ghpvc/?username=VishaLMorya&style=for-the-badge&color=brightgreen"></a>
 <a href="https://buymeacoffee.com/sandeepchahar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
  </p>
@@ -48,14 +48,14 @@
 
 <h4>Where to find me :</h4>
 <p>
-  <a href="https://github.com/Sandeep-Chahar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000?&logo=Github" /></a>
-  <a href="https://leetcode.com/Sandeep-Chahar" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode" /></a>
+  <a href="https://github.com/VishaLMorya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000?&logo=Github" /></a>
+  <a href="https://leetcode.com/VishaLMorya" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode" /></a>
   <a href="https://auth.geeksforgeeks.org/user/sandeepchahar" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-000?&logo=GeeksforGeeks" /></a>
   <a href="https://www.instagram.com/_ankitchahar_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" /></a>
   <a href="https://www.behance.net/sandeepchahar1" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-000?&logo=Behance" /></a>
   <a href="https://www.linkedin.com/in/sandeepchahar/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin" /></a>
-  <a href="https://medium.com/@Sandeep-Chahar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000?&logo=Medium" /></a>
-  <a href="https://stackoverflow.com/users/23207194/sandeep-chahar" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-000?&logo=Stackoverflow" /></a>
+  <a href="https://medium.com/@VishaLMorya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000?&logo=Medium" /></a>
+  <a href="https://stackoverflow.com/users/23207194/VishaLMorya" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-000?&logo=Stackoverflow" /></a>
   <a href="https://www.youtube.com/channel/UCD7IRulTcW2tVY-GADHvcng" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-000?&logo=Youtube" /></a>
   <a href="https://codepen.io/Sandeep-the-bashful" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000?&logo=Codepen" /></a>
   <a href="https://mastodon.social/@SandeepChahar" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon" /></a>
@@ -106,7 +106,7 @@
 
 <h4>Certificates :</h4>
 <p>
-  <a href="https://github.com/Sandeep-Chahar/Certificates/blob/main/1-474297aa-0cc5-4b20-af48-79b3ea5aabf1.pdf" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-Introduction to HTML ~ Infosys Springboard-000?&logo=HTML5"/></a>
+  <a href="https://github.com/VishaLMorya/Certificates/blob/main/1-474297aa-0cc5-4b20-af48-79b3ea5aabf1.pdf" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-Introduction to HTML ~ Infosys Springboard-000?&logo=HTML5"/></a>
 </p>
 
 <!---------------------------------END OF CERTIFICATES SECTION------------------------------->
@@ -119,14 +119,14 @@
 
 <h4>Small Projects :</h4>
 <p>
-  <a href="https://github.com/Sandeep-Chahar/Responsive-Navbar" target="_blank"><img alt="Responsive Navbar" src="https://img.shields.io/badge/-🪨 Responsive Navbar-000"/></a>
+  <a href="https://github.com/VishaLMorya/Responsive-Navbar" target="_blank"><img alt="Responsive Navbar" src="https://img.shields.io/badge/-🪨 Responsive Navbar-000"/></a>
 </p>
 
 
 
 <h4>Full Stack Projects :</h4>
 <p>
-  <a href="https://github.com/Sandeep-Chahar/Blog-with-Admin-Panel" target="_blank"><img alt="Blog with Admin Panel" src="https://img.shields.io/badge/-🔖 Blog with Admin Panel-000"/></a>
+  <a href="https://github.com/VishaLMorya/Blog-with-Admin-Panel" target="_blank"><img alt="Blog with Admin Panel" src="https://img.shields.io/badge/-🔖 Blog with Admin Panel-000"/></a>
 </p>
 
 <!---------------------------------END OF PROJECTS LINKS SECTION------------------------------->
@@ -148,9 +148,9 @@
 
 <h4>📊 My Stats :</h4>
 
-![](https://github-readme-stats.vercel.app/api?username=Sandeep-Chahar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Chahar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Chahar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VishaLMorya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VishaLMorya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaLMorya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!---------------------------------END OF STATS SECTION------------------------------->
 
