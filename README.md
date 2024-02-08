@@ -72,6 +72,7 @@
   <a href="" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" /></a>
   <a href="" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" /></a>
   <a href="" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" /></a>
+    <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python" /></a>
 </p>
 
 <!---------------------------------END OF LANGUAGES LINKS SECTION------------------------------->
@@ -104,7 +105,7 @@
 
 <!---------------------------------CERTIFICATES SECTION------------------------------->
 
-<h4>Certificates :</h4>
+<!--<h4>Certificates :</h4>
 <p>
   <a href="https://github.com/VishaLMorya/Certificates/blob/main/1-474297aa-0cc5-4b20-af48-79b3ea5aabf1.pdf" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-Introduction to HTML ~ Infosys Springboard-000?&logo=HTML5"/></a>
 </p>
@@ -117,7 +118,7 @@
 
 <!---------------------------------PROJECTS LINKS SECTION------------------------------->
 
-<h4>Small Projects :</h4>
+<!--<h4>Small Projects :</h4>
 <p>
   <a href="https://github.com/VishaLMorya/Responsive-Navbar" target="_blank"><img alt="Responsive Navbar" src="https://img.shields.io/badge/-🪨 Responsive Navbar-000"/></a>
 </p>
@@ -126,7 +127,7 @@
 
 <h4>Full Stack Projects :</h4>
 <p>
-  <a href="https://github.com/VishaLMorya/Blog-with-Admin-Panel" target="_blank"><img alt="Blog with Admin Panel" src="https://img.shields.io/badge/-🔖 Blog with Admin Panel-000"/></a>
+ <a href="https://github.com/VishaLMorya/Blog-with-Admin-Panel" target="_blank"><img alt="Blog with Admin Panel" src="https://img.shields.io/badge/-🔖 Blog with Admin Panel-000"/></a>-->
 </p>
 
 <!---------------------------------END OF PROJECTS LINKS SECTION------------------------------->
