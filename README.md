@@ -6,7 +6,7 @@
 </div>
 
 
-<h3  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey there, I'm <a href="https://github.com/VishaLMorya">Sandeep Chahar</a></h3>
+<h3  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey there, I'm <a href="https://github.com/VishaLMorya">Vishal Morya</a></h3>
 
 <p align="center">
 <a href="https://github.com/VishaLMorya?tab=repositories&sort=stargazers">
@@ -36,7 +36,7 @@
 - 🌱 I'm currently learning **Web development and English**
 - 🤔 My hobbies are **playing chess and running**
 - 💬 If you have any questions, **just ask me**
-- This is my email: **sandeepchahar5555@gmail.com**
+- This is my email: **vishalmorya52@gmail.com**
 
 <!---------------------------------END OF INFO SECTION------------------------------->
 
@@ -135,10 +135,10 @@
 <!---------------------------------DONATION SECTION------------------------------->
   <h4>💰 You can help me by Donating</h4>
  <p>
-  <a href="https://buymeacoffee.com/sandeepchahar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-000?&logo=buymeacoffee"/></a>
-  <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="Paytm" src="https://img.shields.io/badge/-Paytm%20%E2%82%B910-000?&logo=Paytm"/></a>
-  <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="PhonePe" src="https://img.shields.io/badge/-PhonePe ₹10-000?&logo=Phonepe" /></a>
-  <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="Google Pay" src="https://img.shields.io/badge/-Google Pay ₹10-000?&logo=googlepay"/></a>
+  <a href="https://buymeacoffee.com/Vishal Morya" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-000?&logo=buymeacoffee"/></a>
+  <a href="https://getupilink.com/upi/8860176199@paytm?am=10" target="_blank"><img alt="Paytm" src="https://img.shields.io/badge/-Paytm%20%E2%82%B910-000?&logo=Paytm"/></a>
+  <a href="https://getupilink.com/upi/8860176199@paytm?am=10" target="_blank"><img alt="PhonePe" src="https://img.shields.io/badge/-PhonePe ₹10-000?&logo=Phonepe" /></a>
+  <a href="https://getupilink.com/upi/8860176199@paytm?am=10" target="_blank"><img alt="Google Pay" src="https://img.shields.io/badge/-Google Pay ₹10-000?&logo=googlepay"/></a>
 </p>
 <!---------------------------------END OF DONATION SECTION------------------------------->
 
