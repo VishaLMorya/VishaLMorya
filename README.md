@@ -59,7 +59,7 @@
   <a href="https://www.youtube.com/channel/UCD7IRulTcW2tVY-GADHvcng" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-000?&logo=Youtube" /></a>
   <a href="https://codepen.io/Sandeep-the-bashful" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000?&logo=Codepen" /></a>
   <a href="https://mastodon.social/@SandeepChahar" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon" /></a>
-  <a href="mailto:sandeepchahar5555@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-000?&logo=Gmail" /></a>
+  <a href="mailto: Vishalmorya52@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-000?&logo=Gmail" /></a>
 </p>
 <!---------------------------------END OF SOCIAL LINKS SECTION------------------------------->
 
@@ -73,6 +73,8 @@
   <a href="" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" /></a>
   <a href="" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" /></a>
     <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python" /></a>
+<a href="" target="_blank"><img alt="MySql" src="https://img.shields.io/badge/-Mysql-000?&logo=Mysql" /></a>
+  
 </p>
 
 <!---------------------------------END OF LANGUAGES LINKS SECTION------------------------------->
